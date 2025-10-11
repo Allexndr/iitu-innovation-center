@@ -1,8 +1,12 @@
-# IITU Innovation Center - Redesigned Website
+# 🚀 IITU Innovation Center - Modern Website
 
-## 🚀 Overview
+## 📋 Overview
 
-This is a completely redesigned, modern, and minimalistic website for the IITU Innovation Center. The new design features a clean white background with dark blue buttons and accents, creating a professional and innovative look.
+A completely redesigned, modern, and minimalistic website for the IITU Innovation Center. This project transforms the original website into a sleek, professional platform that showcases innovation and technology.
+
+**Live Demo**: [View Website](https://allexndr.github.io/ino/)
+
+## ✨ Key Features
 
 ## ✨ Key Features
 
